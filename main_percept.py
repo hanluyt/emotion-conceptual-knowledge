@@ -24,7 +24,7 @@ from utils import dist_train, data_util
 def get_args():
     parser = argparse.ArgumentParser('Facial Expression Recognition', add_help=False)
     parser.add_argument('--batch_size', default=64, type=int)
-    parser.add_argument('--epochs', default=6, type=int)
+    parser.add_argument('--epochs', default=40, type=int)
     parser.add_argument('--alpha', default=2, type=float, help="hyperparameter for CE")
     parser.add_argument('--beta', default=1, type=float, help="hyperparameter for similarity")
     parser.add_argument('--gamma', default=1, type=float, help="hyperparameter for distill")
