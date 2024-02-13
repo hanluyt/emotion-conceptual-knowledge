@@ -7,5 +7,5 @@ __pycache__/
 # Directory
 backbone_weight/
 
-/**/.DS_Store
+**/.DS_Store
 *.log
