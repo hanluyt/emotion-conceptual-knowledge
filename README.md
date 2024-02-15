@@ -10,4 +10,5 @@ The human brain can effortlessly and reliably perceive emotions, whereas existin
 
 Framework of the CRPN model
 ------
-![](https://github.com/hanluyt/gACNN_pytorch/blob/main/framework.png)
+![](https://github.com/hanluyt/emotion-conceptual-knowledge/blob/main/Figure1.png)
+
